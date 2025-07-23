@@ -3,7 +3,7 @@
 ## 1 - Descrição
 
 Esta é a versão operacional do Coupled Model for Oil spill Prediction (CMOP) que está sendo utilizado pelo Projeto OSIM.
-Versão fornecida por Fernando Barreto no dia 05/07/25
+Versão fornecida por Fernando Barreto no dia 05/07/25.
 
 ## 2 - Instalação
 
