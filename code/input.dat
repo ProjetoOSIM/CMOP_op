@@ -1,5 +1,5 @@
 2025,05,11 , 0 , 0 ,  0
-'/mnt/c/cmop/input_posproc_2/'
+'/mnt/c/cmop/input_pre_proc/'
 10     !running time in hours  2880
 100                !number of particles 200
 1                 !output frequency in hours
