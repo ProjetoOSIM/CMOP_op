@@ -1,5 +1,5 @@
 2025,1,12, 0 , 0 ,  0       !   year, month, day, hour, minute, second   2024,10,24 , 0 , 0 ,  0
-'/mnt/c/Users/fernandobarreto/Desktop/cmop/dados/roms2/'  ! ''
+'/mnt/c/cmop/input_pre_proc/'  ! ''
 24     !running time in hours  2880
 1                !number of particles 200
 1                 !output frequency in hours
